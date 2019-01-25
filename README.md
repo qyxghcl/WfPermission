@@ -1,8 +1,8 @@
 # WfPermission
 A tool for permission requests
 
-#How to use
-#Step1.
+##How to use
+##Step1.
 allprojects {
     repositories {
         google()
@@ -13,7 +13,7 @@ allprojects {
     }
 }
 
-#Step2.
+##Step2.
 implementation 'com.github.qyxghcl:WPermission:version'
 
 ## document
