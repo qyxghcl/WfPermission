@@ -14,7 +14,7 @@ allprojects {
 }
 
 ### Step2.
-implementation 'com.github.qyxghcl:WPermission:version'
+implementation 'com.github.qyxghcl:WPermission:v1.0'
 
 ## document
 [document](https://www.jianshu.com/p/080b3128e564)
